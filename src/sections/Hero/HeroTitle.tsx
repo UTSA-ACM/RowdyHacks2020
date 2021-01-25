@@ -38,29 +38,29 @@ function HeroTitle() {
       <DateWrapper {...{ theme: { fontSize: fontSize(30) } }}>
         {"March 28-29 2020 | NOW COMPLETELY ONLINE"}
       </DateWrapper>
-      <ButtonWrapper>
-        <TitleButton
-          onClick={() => {
-            window.location.href = "/day-of-event";
-          }}
-        >
-          Day Of Event Information
-        </TitleButton>
-        <TitleButton
-          onClick={() => {
-            window.location.href = "https://rowdyhacks.typeform.com/to/ImTIU6";
-          }}
-        >
-          Apply to be a volunteer/mentor!
-        </TitleButton>
-        <TitleButton
-          onClick={() => {
-            window.location.href = "https://apply.rowdyhacks.io/login.html";
-          }}
-        >
-          Check your profile!
-        </TitleButton>
-      </ButtonWrapper>
+      {/*<ButtonWrapper>*/}
+      {/*  <TitleButton*/}
+      {/*    onClick={() => {*/}
+      {/*      window.location.href = "/day-of-event";*/}
+      {/*    }}*/}
+      {/*  >*/}
+      {/*    Day Of Event Information*/}
+      {/*  </TitleButton>*/}
+      {/*  <TitleButton*/}
+      {/*    onClick={() => {*/}
+      {/*      window.location.href = "https://rowdyhacks.typeform.com/to/ImTIU6";*/}
+      {/*    }}*/}
+      {/*  >*/}
+      {/*    Apply to be a volunteer/mentor!*/}
+      {/*  </TitleButton>*/}
+      {/*  <TitleButton*/}
+      {/*    onClick={() => {*/}
+      {/*      window.location.href = "https://apply.rowdyhacks.io/login.html";*/}
+      {/*    }}*/}
+      {/*  >*/}
+      {/*    Check your profile!*/}
+      {/*  </TitleButton>*/}
+      {/*</ButtonWrapper>*/}
     </HeroTitleWrapper>
   );
 }

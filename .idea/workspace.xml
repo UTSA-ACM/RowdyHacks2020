@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba70dcc1-e919-4360-abf5-c2968eec1ff5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar/HomeButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/HomeButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/Hero/HeroTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero/HeroTitle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sections/SocialMedia/SocialMediaSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/SocialMedia/SocialMediaSection.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +29,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="Z:\Libraries\Documents\103-College\ACM\RowdyHacks\2020\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,11 +43,12 @@
       <option name="presentableId" value="Default" />
       <updated>1611551269865</updated>
       <workItem from="1611551271114" duration="1671000" />
+      <workItem from="1633469344159" duration="1728000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1611551774286">

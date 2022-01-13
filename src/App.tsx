@@ -14,12 +14,13 @@ import { NavBarMargin } from "./components/NavBar/NavBarStyle";
 import LocationSection from "./sections/Location/LocationSection";
 
 const titleNames = [
-  { title: "About", link: "/#about" },
-  { title: "Tracks", link: "/#tracks" },
-  { title: "FAQ", link: "/#faq" },
-  { title: "Location", link: "/#location" },
-  { title: "Schedule", link: "/#schedule" },
-  { title: "Partners", link: "/#partners" }
+    { title: "Home", link: "https://www.rowdyhacks.org" },
+    { title: "About", link: "/#about" },
+    { title: "Tracks", link: "/#tracks" },
+    { title: "FAQ", link: "/#faq" },
+    { title: "Location", link: "/#location" },
+    { title: "Schedule", link: "/#schedule" },
+    { title: "Partners", link: "/#partners" }
 ];
 
 const LazyLoadedSections = React.lazy(() =>

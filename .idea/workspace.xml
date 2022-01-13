@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar/HomeButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/HomeButton.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="Z:\Libraries\Documents\103-College\ACM\RowdyHacks\2020\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,33 +45,15 @@
       <option name="presentableId" value="Default" />
       <updated>1611551269865</updated>
       <workItem from="1611551271114" duration="1671000" />
-      <workItem from="1633469344159" duration="1728000" />
+      <workItem from="1633469344159" duration="1875000" />
+      <workItem from="1633494070451" duration="662000" />
+      <workItem from="1633728442814" duration="767000" />
+      <workItem from="1633760343447" duration="606000" />
+      <workItem from="1642037109666" duration="389000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1611551774286">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611551774286" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1611551774286">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611551774286" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1611551774285">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611551774285" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1611551774286">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611551774286" />
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1611552936975">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611552936975" />
   </component>
 </project>

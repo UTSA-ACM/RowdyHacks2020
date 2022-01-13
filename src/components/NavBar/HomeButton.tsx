@@ -4,7 +4,7 @@ import { LogoImage, Home } from "./NavBarStyle";
 
 function HomeButton() {
   return (
-    <Home href="https://www.rowdyhacks.io/">
+    <Home href="https://www.rowdyhacks.org/">
       <LogoImage src={rowdyHacksLogo} alt="rowdyHacksLogo" />
     </Home>
   );
